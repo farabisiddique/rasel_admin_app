@@ -1,0 +1,48 @@
+
+body{
+   background-image: linear-gradient(to right, rgb(127, 0, 255), rgb(225, 0, 255));
+}
+
+.formDiv{
+   /* background-image: linear-gradient(to right, rgb(127, 127, 213), rgb(134, 168, 231), rgb(145, 234, 228)); */
+    /* text-align: center; */
+    justify-content: center;
+    /* box-shadow: 10px 10px gray; */
+}
+
+.back{
+    
+}
+.admin{
+    margin: 15px 0 !important;
+    
+      
+}
+
+.main-cont{
+    background-image: linear-gradient(to right, rgb(6, 190, 182), rgb(72, 177, 191));
+    box-shadow: 10px 10px gray;
+    border-radius: 1.25rem;
+}
+
+.alert{
+    font-size: 15px;
+    padding: 0px 5px !important;
+}
+
+.png{
+    width: 180px;
+    height: 165px;
+    /* margin-left: 90px; */
+}
+}
+
+
+/* @media only screen and (max-width: 600px) {
+    .admin {
+     margin-top: 5px;
+    }
+  } 
+
+
+  
